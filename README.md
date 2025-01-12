@@ -1,4 +1,5 @@
 # Arcadia - AI-Powered Game Coach
+![BANNERGAMING](https://github.com/user-attachments/assets/785d2533-9c06-492b-a341-b26f4f8e2667)
 
 **Master Your Game with Arcadia**
 
@@ -19,6 +20,7 @@ And one of the following:
 Nvidia CUDA Toolkit 11.8 [Download](https://developer.nvidia.com/cuda-11-8-0-download-archive)
 
 ---
+![5](https://github.com/user-attachments/assets/43f736d1-5798-4a6b-92bb-420a4743b2a1)
 
 ## Key Features
 
